@@ -1,0 +1,6 @@
+package server.model;
+
+public enum TypeOfQuestion {
+    SPORT, FOOTBALL, SCIENCE, RELIGIOUS, PUBLIC_INFORMATION, GEOGRAPHY, HISTORY, MATH, ENGLISH, TECHNOLOGY,
+    CINEMA, MUSIC;
+}
